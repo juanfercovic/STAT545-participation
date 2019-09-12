@@ -12,3 +12,4 @@ In general, my life can be placed in the following dimensions:
 | My daughter is 2 | I live in Squamish (the mecca here) and commute to campus | I love my research |
 
 
+My favourite food is ceviche and pasta. or anything
