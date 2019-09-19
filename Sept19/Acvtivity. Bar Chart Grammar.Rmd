@@ -117,8 +117,8 @@ p +
 What's wrong with the following code? Fix it.
 
 ```{r, fig.width = 5, fig.height = 2}
-ggplot(gapminder) +
-  geom_point(x = gdpPercap, y = lifeExp, alpha = 0.1)
+ggplot(gapminder, aes(gdpPercap, lifeExp)) +
+  geom_point(alpha = 0.1)
 ```
 
 
@@ -132,7 +132,7 @@ So you're a ggplot2 pro? Then, let's see this plot adapted to polar coordinates.
 The plot should look like a spiral, or concentric circles. 
 
 ```{r, fig.width = 5, fig.height = 2}
-FILL_THIS_IN
+p + coord_polar()
 ```
 
 
