@@ -54,5 +54,5 @@ ggplot(gapminder, aes(gdpPercap, lifeExp)) +
   geom_point(alpha = 0.1)
 
 #bonus
-p + coord_polar()
 
+#3
