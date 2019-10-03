@@ -1,17 +1,7 @@
 #Class Meeting 9 Tidy Data and Pivoting
-library(gapminder)
 library(tidyverse)
-library(dplyr)
-library(magrittr)
-library(qwraps2)
-library(ggplot2)
-library(rmarkdown)
-suppressPackageStartupMessages(library(tidyverse))
-suppressPackageStartupMessages(library(gapminder))
-suppressPackageStartupMessages(library(lubridate))
-suppressPackageStartupMessages(library(tsibble))
-suppressPackageStartupMessages(library(here))
-suppressPackageStartupMessages(library(DT))
+
+datasets::HairEyeColor
 
 haireye %>% 
   DT::datatable(rownames = FALSE)
@@ -22,3 +12,11 @@ haireye %>%
   DT::datatable(rownames = FALSE)
 
 haireye_untidy
+
+datasets::iris2
+
+tibble(x = 1:6,
+       y = min(x))
+
+tibble(x = 1:6,
+       y = 1:2)
