@@ -2,7 +2,7 @@ library("tidyverse")
 library("gapminder")
 
 gapminder
-write.csv(gapminder, './gapminder.csv')  # command that saves in csv
+write.csv(gapminder, '.gapminder.csv')  # command that saves in csv
 
 view(gapminder)
 
@@ -13,11 +13,12 @@ gapminder_sum <- gapminder %>%
 
 view(gapminder_sum)
 
-write_csv(gapminder_sum, './gapminder_sum.csv')
+write_csv(gapminder_sum, './test/gapminder_sum.csv')
 
 
 gapminder_sum %>%
   ggplot(aes(x = continent,
              y = ave_life)) +
-  geom_point() 
+  geom_point() +
+  theme_bw()
   
