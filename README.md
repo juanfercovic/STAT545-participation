@@ -29,7 +29,7 @@ My Participation summary is in the table below. The links will take you to the h
 | Class Meeting 11 File input/output (I/O) | script |
 | Class Meeting 12 Working with factors in R | cm012 |
 | Class Meeting 13 Effective Visualizations | cm013 |
-| Class Meeting 14 The Model-Fitting Paradigm in R | cm014 |
+| Class Meeting 14 The Model-Fitting Paradigm in R | [cm014]{https://github.com/juanfercovic/STAT545-participation/blob/master/cm013.Rmd} |
 
 
 
