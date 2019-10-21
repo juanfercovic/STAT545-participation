@@ -33,8 +33,8 @@ p <- gapminder %>%
           mode = 'markers')
 
 #here the info from plot.ly
-Sys.setenv()
-Sys.setenv()
+#Sys.setenv()
+#Sys.setenv()
 
 
 ```
@@ -69,7 +69,7 @@ Note, there will be very little coding in-class today, but I've given you plenty
 Write some notes here about what "effective visualizations" means to you. Think of elements of good graphics and plots that you have seen - what makes them good or bad? Write 3-5 points.
 
 1. The reader can observe the reelevant variation
-1. The readerncan observe the relation between variables
+1. The reader can observe the relation between variables
 1. It has to be self explicative ie: labels must be clear
 1. 
 1.
