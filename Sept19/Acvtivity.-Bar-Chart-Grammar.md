@@ -145,13 +145,11 @@ What's wrong with the following code? Fix it.
 
 
 ```r
-ggplot(gapminder) +
-  geom_point(x = gdpPercap, y = lifeExp, alpha = 0.1)
+ggplot(gapminder, aes(gdpPercap, lifeExp)) +
+  geom_point(alpha = 0.1)
 ```
 
-```
-## Error in layer(data = data, mapping = mapping, stat = stat, geom = GeomPoint, : object 'gdpPercap' not found
-```
+<img src="Acvtivity.-Bar-Chart-Grammar_files/figure-html/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
 
 
 ### 2(e) BONUS
@@ -165,12 +163,10 @@ The plot should look like a spiral, or concentric circles.
 
 
 ```r
-FILL_THIS_IN
+p + coord_polar()
 ```
 
-```
-## Error in eval(expr, envir, enclos): object 'FILL_THIS_IN' not found
-```
+<img src="Acvtivity.-Bar-Chart-Grammar_files/figure-html/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
 
 
 ## Exercise 3: Fix the plots (Together)
