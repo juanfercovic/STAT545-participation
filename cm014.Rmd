@@ -1,11 +1,12 @@
 ---
 title: 'cm014 Worksheet: The Model-Fitting Paradigm in R'
 editor_options: null
-output:
+output: 
   html_document:
-    df_print: paged
-chunk_output_type: inline
+    keep_md: true
+    theme: paper
 ---
+
 ```{r}
 suppressPackageStartupMessages(library(tidyverse))
 library(gapminder)
