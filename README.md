@@ -17,7 +17,7 @@ My Participation summary is in the table below. The links will take you to the h
 | Class | Link |
 | ----- | ---- |
 | Class Meeting 1 Introduction to STAT 545 and GitHub | survey navigating_github.md |
-| Class Meeting 2 Introduction to R | cm002 |
+| Class Meeting 2 Introduction to R | [cm002.R](https://github.com/juanfercovic/STAT545-participation/blob/master/cm002.R) |
 | Class Meeting 3 Authoring | navigating_github.md rmd_exploration.Rmd rmd_exploration-slides.Rmd|
 | Class Meeting 4 The version control workflow | nothing is required for submisison |
 | Class Meeting 5 Intro to plotting with ggplot2, Part I | [cm005.Rmd](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.Rmd) - [cm005.html](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.html) |
