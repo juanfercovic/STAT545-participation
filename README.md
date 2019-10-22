@@ -27,7 +27,7 @@ My Participation summary is in the table below. The links will take you to the h
 | Class Meeting 9 Tidy Data and Pivoting | c009 |
 | Class Meeting 10 Tibble Joins | cm010 |
 | Class Meeting 11 File input/output (I/O) | script |
-| Class Meeting 12 Working with factors in R | cm012 |
+| Class Meeting 12 Working with factors in R | [cm012.Rmd](https://juanfercovic.github.io/STAT545-participation/cm012.Rmd) -  [cm012.html](https://juanfercovic.github.io/STAT545-participation/cm012.html) |
 | Class Meeting 13 Effective Visualizations | [cm013.Rmd](https://juanfercovic.github.io/STAT545-participation/cm013.Rmd) -  [cm013.html](https://juanfercovic.github.io/STAT545-participation/cm013.html) |
 | Class Meeting 14 The Model-Fitting Paradigm in R | [cm014.Rmd](https://juanfercovic.github.io/STAT545-participation/cm014.Rmd) -  [cm014.html](https://juanfercovic.github.io/STAT545-participation/cm014.html) |
 
