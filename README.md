@@ -16,7 +16,7 @@ My Participation summary is in the table below. The links will take you to the h
 
 | Class | Link |
 | ----- | ---- |
-| Class Meeting 1 Introduction to STAT 545 and GitHub | survey navigating_github.md |
+| Class Meeting 1 Introduction to STAT 545 and GitHub | [navigating_github.md](https://github.com/juanfercovic/STAT545-participation/blob/master/Navigate_github.md) |
 | Class Meeting 2 Introduction to R | [cm002.R](https://github.com/juanfercovic/STAT545-participation/blob/master/cm002.R) |
 | Class Meeting 3 Authoring | navigating_github.md rmd_exploration.Rmd rmd_exploration-slides.Rmd|
 | Class Meeting 4 The version control workflow | nothing is required for submisison |
