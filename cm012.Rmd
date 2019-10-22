@@ -1,5 +1,6 @@
 ---
 title: "cm012 Exercises: Factors"
+editor_options: null
 output: 
   html_document:
     keep_md: true
