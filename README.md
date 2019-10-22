@@ -24,7 +24,7 @@ My Participation summary is in the table below. The links will take you to the h
 | Class Meeting 6 Intro to data wrangling, Part I | cm006 |
 | Class Meeting 7 Intro to data wrangling, Part II | cm007 |
 |Class Meeting 8 Intro to plotting with ggplot2, Part II | cm008 |
-| Class Meeting 9 Tidy Data and Pivoting | c009 |
+| Class Meeting 9 Tidy Data and Pivoting | [cm009.Rmd](https://juanfercovic.github.io/STAT545-participation/Oct01-%20Class09/cm009-exercise.Rmd) [cm009.html](https://juanfercovic.github.io/STAT545-participation/Oct01-%20Class09/cm009-exercise.nb.html) |
 | Class Meeting 10 Tibble Joins | [cm010.Rmd](https://juanfercovic.github.io/STAT545-participation/Oct03-%20Class10/cm010.Rmd) - [cm010.html](https://juanfercovic.github.io/STAT545-participation/Oct03-%20Class10/cm010.html)|
 | Class Meeting 11 File input/output (I/O) | script |
 | Class Meeting 12 Working with factors in R | [cm012.Rmd](https://juanfercovic.github.io/STAT545-participation/cm012.Rmd) -  [cm012.html](https://juanfercovic.github.io/STAT545-participation/cm012.html) - [cm012.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm012.md) |
