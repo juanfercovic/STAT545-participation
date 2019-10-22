@@ -24,7 +24,7 @@ knitr::opts_chunk$set(error = TRUE)
 Load the `gapminder` and `tidyverse` packages. Hint: `suppressPackageStartupMessages()`!
     - This loads `dplyr`, too.
     
-```{r load packages, warning = FALSE, message = FALSE}
+```{r}
 # load your packages here:
 library(gapminder)
 library(tidyverse)
@@ -43,9 +43,9 @@ select(gapminder, year, lifeExp, country)
 2. Select all variables, from `country` to `lifeExp`.
 
 ```{r}
-# This will work:
+# 1 option
 select(gapminder, country, continent, year, lifeExp)
-# Better way:
+# 2 option
 select(gapminder, country:lifeExp)
 ```
 
@@ -104,7 +104,7 @@ This is how I could do it by *nesting* the two function calls:
 
 ```{r nesting functions example, eval = F}
 # Nesting function calls can be hard to read
-arrange(select(gapminder, year, lifeExp, country), year, lifeExp)
+arrange(select(gapminder, year, lifeExp, country), year, lifeExp) 
 ```
 
 Now using with pipes:
