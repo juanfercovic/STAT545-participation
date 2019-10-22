@@ -34,8 +34,6 @@ gapminder %>%
 
 2. Calculate the growth in population since the first year on record _for each country_ by rearranging the following lines, and filling in the `FILL_THIS_IN`. Here's another convenience function for you: `dplyr::first()`. 
 
-```
-```
 
 ```{r}
 gapminder %>% 
@@ -49,8 +47,6 @@ gapminder %>%
 
 3. Determine the country that experienced the sharpest 5-year drop in life expectancy, in each continent, sorted by the drop, by rearranging the following lines of code. Ensure there are no `NA`'s. Instead of using `lag()`, use the convenience function provided by the `tsibble` package, `tsibble::difference()`:
 
-```
-```
 
 ```{r}
 gapminder %>% 
