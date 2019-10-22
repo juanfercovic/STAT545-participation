@@ -20,13 +20,13 @@ My Participation summary is in the table below. The links will take you to the h
 | Class Meeting 2 Introduction to R | cm002 |
 | Class Meeting 3 Authoring | navigating_github.md rmd_exploration.Rmd rmd_exploration-slides.Rmd|
 | Class Meeting 4 The version control workflow | nothing is required for submisison |
-| Class Meeting 5 Intro to plotting with ggplot2, Part I | cm005 |
+| Class Meeting 5 Intro to plotting with ggplot2, Part I | [cm005.Rmd](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.Rmd) - [cm005.html](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.html) |
 | Class Meeting 6 Intro to data wrangling, Part I | [cm006.Rmd](https://juanfercovic.github.io/STAT545-participation/cm006.Rmd) - [cm006.html](https://juanfercovic.github.io/STAT545-participation/cm006.html) - [cm006.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm006.md) |
-| Class Meeting 7 Intro to data wrangling, Part II | cm007 |
+| Class Meeting 7 Intro to data wrangling, Part II | [cm007.Rmd](https://juanfercovic.github.io/STAT545-participation/cm007.Rmd) - [cm007.html](https://juanfercovic.github.io/STAT545-participation/cm007.html) - [cm007.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm007.md) |
 |Class Meeting 8 Intro to plotting with ggplot2, Part II | [cm008.Rmd](https://juanfercovic.github.io/STAT545-participation/Class08/cm008.Rmd) - [cm008.html](https://juanfercovic.github.io/STAT545-participation/Class08/cm008.html)  |
 | Class Meeting 9 Tidy Data and Pivoting | [cm009.Rmd](https://juanfercovic.github.io/STAT545-participation/Oct01-%20Class09/cm009-exercise.Rmd) - [cm009.html](https://juanfercovic.github.io/STAT545-participation/Oct01-%20Class09/cm009-exercise.nb.html) |
 | Class Meeting 10 Tibble Joins | [cm010.Rmd](https://juanfercovic.github.io/STAT545-participation/Oct03-%20Class10/cm010.Rmd) - [cm010.html](https://juanfercovic.github.io/STAT545-participation/Oct03-%20Class10/cm010.html)|
-| Class Meeting 11 File input/output (I/O) | script |
+| Class Meeting 11 File input/output (I/O) | [script_1](https://github.com/juanfercovic/STAT545-participation/blob/master/Class11.R) - [script_2](https://github.com/juanfercovic/STAT545-participation/blob/master/class11a.R) |
 | Class Meeting 12 Working with factors in R | [cm012.Rmd](https://juanfercovic.github.io/STAT545-participation/cm012.Rmd) -  [cm012.html](https://juanfercovic.github.io/STAT545-participation/cm012.html) - [cm012.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm012.md) |
 | Class Meeting 13 Effective Visualizations | [cm013.Rmd](https://juanfercovic.github.io/STAT545-participation/cm013.Rmd) -  [cm013.html](https://juanfercovic.github.io/STAT545-participation/cm013.html) |
 | Class Meeting 14 The Model-Fitting Paradigm in R | [cm014.Rmd](https://juanfercovic.github.io/STAT545-participation/cm014.Rmd) -  [cm014.html](https://juanfercovic.github.io/STAT545-participation/cm014.html) |
