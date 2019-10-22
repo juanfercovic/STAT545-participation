@@ -20,7 +20,7 @@ My Participation summary is in the table below. The links will take you to the h
 | Class Meeting 2 Introduction to R | cm002 |
 | Class Meeting 3 Authoring | navigating_github.md rmd_exploration.Rmd rmd_exploration-slides.Rmd|
 | Class Meeting 4 The version control workflow | nothing is required for submisison |
-| Class Meeting 5 Intro to plotting with ggplot2, Part I | cm005 |
+| Class Meeting 5 Intro to plotting with ggplot2, Part I | [cm005.Rmd](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.Rmd) - [cm005.html](https://juanfercovic.github.io/STAT545-participation/Sept19/Acvtivity.-Bar-Chart-Grammar.html) |
 | Class Meeting 6 Intro to data wrangling, Part I | [cm006.Rmd](https://juanfercovic.github.io/STAT545-participation/cm006.Rmd) - [cm006.html](https://juanfercovic.github.io/STAT545-participation/cm006.html) - [cm006.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm006.md) |
 | Class Meeting 7 Intro to data wrangling, Part II | [cm007.Rmd](https://juanfercovic.github.io/STAT545-participation/cm007.Rmd) - [cm007.html](https://juanfercovic.github.io/STAT545-participation/cm007.html) - [cm007.md](https://github.com/juanfercovic/STAT545-participation/blob/master/cm007.md) |
 |Class Meeting 8 Intro to plotting with ggplot2, Part II | [cm008.Rmd](https://juanfercovic.github.io/STAT545-participation/Class08/cm008.Rmd) - [cm008.html](https://juanfercovic.github.io/STAT545-participation/Class08/cm008.html)  |
