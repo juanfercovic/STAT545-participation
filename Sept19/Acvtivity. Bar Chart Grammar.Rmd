@@ -50,12 +50,12 @@ Fill in the seven grammar components for this plot.
 | Grammar Component     | Specification |
 |-----------------------|---------------|
 | __data__              | `gapminder` |
-| __aesthetic mapping__ | `aes(continent)` |
-| __geometric object__  | `geom_bar()` |
-| scale                 | FILL_THIS_IN |
-| statistical transform | `mutate(continent = fct_infreq(continent))` |
-| coordinate system     | FILL_THIS_IN |
-| facetting             | `theme_bw()` |
+| __aesthetic mapping__ | x: continent, y: count |
+| __geometric object__  | bars         |
+| scale                 | linear / identity |
+| statistical transform | count of frequency of occurence of continents |
+| coordinate system     | rectangular / cartesian  |
+| facetting             | none |
 
 ## Exercise 2: `ggplot2` Syntax (Your Turn)
 
